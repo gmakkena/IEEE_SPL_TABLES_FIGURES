@@ -8,4 +8,11 @@ Toolboxes Used by the codes:  <br />
     3) Symbolic Maths Toolbox <br />
     <br />
     <br />
-    <br />
+The following are the MATLAB files that are to be executed to obtain tables and figures in the manuscript.<br />
+<br />
+1) Table1_col_2_3.m --> This file generates the poles and zeros of the Gaussian wavelet with t0=2, sigma =1 and are displayed in the console. These are found in the coloumns 2 and 3 of the Table 1 in the manuscript. <br />
+2) Table1_col_4_5.m --> This file generates the poles and zeros of the Mexican Hat wavelet with t0=2, sigma =1 and are displayed in the console. These are found in the coloumns 4 and 5 of the Table 1 in the manuscript. <br />
+3) figspl_1.m --> This file generates the Figure 1 in the manuscript which depicts Absolute percentage change of Taylor coefficents a0 - a5 of Gaussian wavelet as translation is increased. <br />
+4) figspl_2.m --> This file generates the Figure 2 in the manuscript which depicts Location of Poles on the complex plane as n is varied for a 5 th order u-transformation of Gaussian wavelet. <br />
+5) figspl_3.m --> This file depticts Figure 3 in the manuscript which depticts the variation of MSE of the PROPOSED variants as beta is varied.<br />
+6) figspl_4.m --> This file depticts Figure 4 in the manuscript which depticts the variation of Highest Pole quality factor of the PROPOSED variants as beta is varied.<br />
