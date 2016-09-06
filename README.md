@@ -1,4 +1,4 @@
-# IEEE_SPL_TABLES_FIGURES
+# IEEE_SPL_TABLES_FIGURES for SPL-20606-2016 	
 This document is about the codes that the authors have used to generate results in the current submission titled Nonlinear Sequence Transformation-based Continuous-Time Wavelet Filter Approximation.
 
 MATLAB Version used: MATLAB R2015a <br />
