@@ -16,4 +16,8 @@ The following are the MATLAB files that are to be executed to obtain tables and 
 4) figspl_2.m --> This file generates the Figure 2 in the manuscript which depicts Location of Poles on the complex plane as n is varied for a 5 th order u-transformation of Gaussian wavelet. <br />
 5) figspl_3.m --> This file generates Figure 3 in the manuscript which depticts the variation of MSE of the PROPOSED variants as beta is varied. Note that this file takes long time to run because beta value is varied 250 times for each of the four proposed methods. It took about 3min to run this file on a system running on windows 10 with a Intel Xeon processor 3.10GHz and 8Gb RAM<br />
 6) figspl_4.m --> This file generates Figure 4 in the manuscript which depticts the variation of Highest Pole quality factor of the PROPOSED variants as beta is varied. Note that this file takes long time to run because beta value is varied 250 times for each of the four proposed methods. It took about 3min to run this file on a system running on windows 10 with a Intel Xeon processor 3.10GHz and 8Gb RAM<br />
-7) figspl_5a.m --> This file generates Figure 5(a) in the mansucript. 
+7) figspl_5a.m --> This file generates Figure 5(a) in the mansucript. <br />
+8)  figspl_5b.m --> This file generates Figure 5(b) in the mansucript. <br />
+9) figspl_5c.m --> This file generates Figure 5(c) in the mansucript. <br />
+10)  figspl_5d.m --> This file generates Figure 5(d) in the mansucript. <br />
+11)  figspl_5e.m --> This file generates Figure 5(e) in the mansucript. <br />
