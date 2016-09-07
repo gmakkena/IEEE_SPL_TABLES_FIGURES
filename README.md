@@ -25,12 +25,28 @@ The following are the MATLAB files that are to be executed to obtain tables and 
 13) t_hat_mexhat.m --> This file can generate proposed t_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
 14) y_hat_mexhat.m --> This file can generate proposed y_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
 15) tou_hat_mexhat.m --> This file can generate proposed tou_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+16) u_hat_gausswav.m --> This file can generate proposed u_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+17) t_hat_gausswav.m --> This file can generate proposed t_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+18) y_hat_gausswav.m --> This file can generate proposed y_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+19) tou_hat_gausswav.m --> This file can generate proposed tou_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
 <br />
 <br />
 <br />
+
+To generate data points plotted in Figure 6(a) for proposed method in the manuscript run the following files<br />
+For order 4 --> Run tou_hat_gausswav.m  after editing k1=4, p=1, beta = -1.02 in the file <br />
+For order 5 --> Run tou_hat_gausswav.m after editing k1=5, p=1, beta = -0.96 in the file <br />
+For order 6 --> Run y_hat_gausswav.m  after editing k1=6, p=1, beta = -1.09 in the file <br />
+For order 7 --> Run y_hat_gausswav.m  after editing k1=7, p=2, beta = -1.88 in the file <br />
+For order 8 --> Run y_hat_gausswav.m  after editing k1=8, p=2, beta = -1.9 in the file <br />
+The corresponding transfer functions of Pade approach for each order were calculated in MuPad, transferred to MATLAB and then Mean Square Errors were calculated
+<br />
+<br />
+
 To generate data points plotted in Figure 6(b) for proposed method in the manuscript run the following files<br />
 For order 5 --> Run t_hat_mexhat.m  after editing k1=5, p=2, beta = -1.37 in the file <br />
 For order 6 --> Run t_hat_mexhat.m  after editing k1=6, p=2, beta = -1.08 in the file <br />
 For order 7 --> Run t_hat_mexhat.m  after editing k1=7, p=4, beta = -2.02 in the file <br />
 For order 8 --> Run tou_hat_mexhat.m  after editing k1=8, p=4, beta = -3.8 in the file <br />
 For order 9 --> Run tou_hat_mexhat.m  after editing k1=9, p=4, beta = -3.83 in the file <br />
+The corresponding transfer functions of Pade approach for each order were calculated in MuPad, transferred to MATLAB and then Mean Square Errors were calculated
