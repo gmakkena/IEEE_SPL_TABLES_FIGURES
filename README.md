@@ -21,14 +21,15 @@ The following are the MATLAB files that are to be executed to obtain tables and 
 9) figspl_5c.m --> This file generates Figure 5(c) in the mansucript. <br />
 10)  figspl_5d.m --> This file generates Figure 5(d) in the mansucript. <br />
 11)  figspl_5e.m --> This file generates Figure 5(e) in the mansucript. <br />
-12) u_hat_mexhat.m --> This file can generate proposed u_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
-13) t_hat_mexhat.m --> This file can generate proposed t_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
-14) y_hat_mexhat.m --> This file can generate proposed y_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
-15) tou_hat_mexhat.m --> This file can generate proposed tou_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
-16) u_hat_gausswav.m --> This file can generate proposed u_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
-17) t_hat_gausswav.m --> This file can generate proposed t_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
-18) y_hat_gausswav.m --> This file can generate proposed y_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
-19) tou_hat_gausswav.m --> This file can generate proposed tou_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+12)  figspl_5f.m --> This file generates Figure 5(f)  in the mansucript. <br />
+13) u_hat_mexhat.m --> This file can generate proposed u_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+14) t_hat_mexhat.m --> This file can generate proposed t_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+15) y_hat_mexhat.m --> This file can generate proposed y_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+16) tou_hat_mexhat.m --> This file can generate proposed tou_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+17) u_hat_gausswav.m --> This file can generate proposed u_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+18) t_hat_gausswav.m --> This file can generate proposed t_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+19) y_hat_gausswav.m --> This file can generate proposed y_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
+20) tou_hat_gausswav.m --> This file can generate proposed tou_hat approximations for Gaussian wavelet with t0=2 and sigma =1 of several orders k1.<br />
 <br />
 <br />
 <br />
