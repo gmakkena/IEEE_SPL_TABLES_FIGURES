@@ -21,3 +21,7 @@ The following are the MATLAB files that are to be executed to obtain tables and 
 9) figspl_5c.m --> This file generates Figure 5(c) in the mansucript. <br />
 10)  figspl_5d.m --> This file generates Figure 5(d) in the mansucript. <br />
 11)  figspl_5e.m --> This file generates Figure 5(e) in the mansucript. <br />
+12) u_hat_mexhat.m --> This file can generate proposed u_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+13) t_hat_mexhat.m --> This file can generate proposed t_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+14) y_hat_mexhat.m --> This file can generate proposed y_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+15) tou_hat_mexhat.m --> This file can generate proposed tou_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
