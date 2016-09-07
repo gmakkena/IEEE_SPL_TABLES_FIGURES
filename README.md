@@ -25,3 +25,12 @@ The following are the MATLAB files that are to be executed to obtain tables and 
 13) t_hat_mexhat.m --> This file can generate proposed t_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
 14) y_hat_mexhat.m --> This file can generate proposed y_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
 15) tou_hat_mexhat.m --> This file can generate proposed tou_hat approximations for Mexican Hat wavelet with t0=3 and sigma =1 of several orders k1. <br />
+<br />
+<br />
+<br />
+To generate data points plotted in Figure 6(b) in the manuscript run the following files<br />
+For order 5 --> Run t_hat_mexhat.m  after editing k1=5, p=2, beta = -1.37 in the file <br />
+For order 6 --> Run t_hat_mexhat.m  after editing k1=6, p=2, beta = -1.08 in the file <br />
+For order 7 --> Run t_hat_mexhat.m  after editing k1=7, p=4, beta = -2.02 in the file <br />
+For order 8 --> Run tou_hat_mexhat.m  after editing k1=8, p=4, beta = -3.8 in the file <br />
+For order 9 --> Run tou_hat_mexhat.m  after editing k1=9, p=4, beta = -3.83 in the file <br />
